@@ -17,8 +17,6 @@
       "prefix": "app",
       "mobile": false,
       "styles": [
-        "./assets/fonts/opensans_regular/stylesheet.css",
-        "./assets/fonts/opensans_bold/stylesheet.css",
         "./assets/fonts/material-design-icons/material-icons.css"
 
       ],
